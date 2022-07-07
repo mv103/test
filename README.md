@@ -1,3 +1,3 @@
 # Test
 
-mock personal site.
+github init
